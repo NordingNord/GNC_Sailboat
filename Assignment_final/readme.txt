@@ -14,7 +14,7 @@ in the current matlab folder,
 
 
 
-2) open Simulink file “SailingYachtModel.slx” and run it.
+2) open Simulink file “SailingYachtModelUpdated2.slx” and run it.
 
 
 
@@ -26,3 +26,6 @@ in the current matlab folder,
 
 
 Jerome Jouffroy, University of Southern Denmark, 2014.
+
+Expanded functionality by Benjamin Krogh Thomsen & Henrik Smitt
+Tested and working with Matlab 2023b
