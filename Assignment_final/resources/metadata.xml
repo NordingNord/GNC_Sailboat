@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e5af5a09-4a80-11e4-9553-005056977bd0</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>SailingYachtModel.zip</name>
+  <author>Jerome Jouffroy</author>
+  <version>1.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/47981/versions/1/download/zip?src=addons_ml_desktop_install&amp;profile_id=20045116&amp;license=1067308&amp;release_family=R2023b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/e5af5a09-4a80-11e4-9553-005056977bd0/1.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/47981/versions/1/screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/e5af5a09-4a80-11e4-9553-005056977bd0/7d340fc0-01b1-1f26-4a9f-f5153adf520a/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
